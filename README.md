@@ -23,7 +23,7 @@ __Handling Missing Data:
 
 
 __Pivot Table Creation
-As part of the Coffee Shop Sales Analysis, four pivot tables were created to summarize key insights:
+As part of the **Coffee Shop Sales Analysis**, four pivot tables were created to summarize key insights:
 
 1. Sales by Location
 
