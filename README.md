@@ -1,5 +1,6 @@
 # Excel-Data-Cleaning-and-Pivot-table-creation
-__Steps included :
+
+**Steps included** :
 
 __Data Cleaning & Wrangling:
 
